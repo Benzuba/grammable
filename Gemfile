@@ -5,6 +5,8 @@ source 'https://rubygems.org'
 gem 'rails', '4.1.9'
 gem 'devise', '>= 3.2.4'
 gem 'carrierwave', '>= 1.0.0.rc', '< 2.0'
+gem 'figaro'
+
 
 # Use postgresql as the database for Active Record
 gem 'pg'
